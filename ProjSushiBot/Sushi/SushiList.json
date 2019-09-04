@@ -1,0 +1,5 @@
+{
+  "name": [ "Nigiri", "Sashimi", "Maki", "Uramaki", "Temaki", "Hokigai", "Kanpachi" ],
+  "quantity": [ 25, 14, 33, 12, 27, 11, 23 ],
+  "price": [ 22.14, 29.10, 32.14, 26.12, 31.99, 30.99, 29.00 ]
+}
